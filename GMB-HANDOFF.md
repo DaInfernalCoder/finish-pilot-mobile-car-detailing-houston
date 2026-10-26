@@ -8,7 +8,7 @@ Create and launch Finish Pilot Mobile Car Detailing Houston as site 20 of the 10
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `finishpilot.shop` (registered July 28, 2026)
+- Registered domain: `thewoodlandscardetailing.shop` (registered July 28, 2026)
 - Public phone: `+1 346-484-0728`
 - Street address: `26500 Kuykendahl Rd, The Woodlands, TX 77389`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -41,7 +41,7 @@ The public GitHub repository is connected to a `READY` Vercel production project
 
 ## Production links
 
-- Website: https://finishpilot.shop
+- Website: https://thewoodlandscardetailing.shop
 - Vercel fallback: https://finish-pilot-mobile-car-detailing-h.vercel.app
 - GitHub: https://github.com/DaInfernalCoder/finish-pilot-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/finish-pilot-mobile-car-detailing-houston

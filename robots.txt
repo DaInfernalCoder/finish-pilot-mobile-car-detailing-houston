@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://finishpilot.shop/sitemap.xml
+Sitemap: https://thewoodlandscardetailing.shop/sitemap.xml
